@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jhon Alexis Cardona Herrera 👋</h1>
+<h1 align="center">Hi, I'm Jhon  Cardona  👋</h1>
 
 <p align="center">
   Building systems that organize, automate, and improve decision-making —<br/>
