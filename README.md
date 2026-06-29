@@ -15,9 +15,9 @@
 
 ### 🧭 About Me
 
-- 🔭 Working on **public data systems** for animal foundations
+- 🔭 Help on **public data systems** for animal foundations
 - 🌱 Constantly curious and eager to learn
-- ⚡ Fun fact: I'm in constant search of big fails *(the best way to learn)*
+- ⚡ Fun fact: I'm in constant search of big fails *(Consulting expert in automotive sector)*
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/jhon-cardona-525ba474)**
 
 ---
